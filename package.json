@@ -1,0 +1,26 @@
+{
+  "name": "nutbutter",
+  "version": "1.0.0",
+  "description": "Array containing the different types of nut-based butters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpfulhuman/nutbutters.git"
+  },
+  "keywords": [
+    "nut",
+    "butter",
+    "nut",
+    "butter",
+    "list"
+  ],
+  "author": "Helpful Human <hello@helpfulhuman.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helpfulhuman/nutbutters/issues"
+  },
+  "homepage": "https://github.com/helpfulhuman/nutbutters#readme"
+}
